@@ -1,4 +1,4 @@
-# Colorful To-Do List App (Java Swing)
+# To-Do List App (Java Swing)
 
 A simple yet enhanced To-Do List application built using Java Swing, demonstrating basic GUI development, event handling, and custom component rendering. This app helps users manage tasks with a clear, colorful interface.
 
